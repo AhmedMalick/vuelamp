@@ -2,7 +2,7 @@
 
 [live Site](https://a-vuelamp-app.netlify.app)
 
-![Gamma App](/preview.png)
+![Vuelamp App](/preview.png)
 
 This is the code repo of Vuelamp App. There I used:
 
